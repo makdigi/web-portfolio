@@ -62,6 +62,11 @@ section{
 	background-position: left;
 }
 .experience-area p{
+	padding: 10px;
+	margin-right: 22px;
+	height: 30%;
+	background-color:#EA7562;
+	text-align: justify;
 	color: white;
 }
 
